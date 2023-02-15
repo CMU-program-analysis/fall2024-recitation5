@@ -14,8 +14,8 @@ most recent assignment of a variable by modifying the `flowThrough` method in
 ## Building
 
 1. Open this repository using **GitHub Codespaces with at least the 8GB VM option**. 
-2. Run/test your implementation inside the codespace environment by opening the **Gradle Tab on the sidebar and clicking test**.
-3. You can use VSCode's debugger by setting breakpoints on your code, and selecting the **debug option under test on the gradle tab**.
+2. Run/test your implementation inside the codespace environment by opening the **gradle icon on the sidebar and clicking Tasks -> verification -> test**.
+3. You can use VSCode's debugger by setting breakpoints on your code, and selecting the **debug icon under test on the gradle icon**.
 
 ## File Structure
 
