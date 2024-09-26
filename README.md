@@ -1,7 +1,7 @@
-02/17/23 Recitation
+09/27/24 Recitation
 ==================
 
-17-355/17-665/17-819: Program Analysis (Spring 2023)
+17-355/17-665/17-819: Program Analysis (Fall 2024)
 ----------------------------------------------------
 
 This repository is a recitation template.
@@ -14,7 +14,7 @@ most recent assignment of a variable by modifying the `flowThrough` method in
 ## Building
 
 1. Open this repository using **GitHub Codespaces with the 4-core VM option**. 
-2. Run/test your implementation inside the codespace environment by opening the **gradle icon on the sidebar and clicking Tasks -> verification -> test**.
+2. Run/test your implementation inside the codespace environment by running at the command line: ./gradlew test
 3. You can use VSCode's debugger by setting breakpoints on your code, and selecting the **debug icon under test on the gradle icon**.
 
 ## File Structure
