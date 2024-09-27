@@ -6,6 +6,7 @@ public class DefsTest {
         int y = x + 4;
         int z = (y - x) * 2;
         int w = 0;
+        x = y*3; // added by Ian for demonstration
 
         for (int i = 0; i < 10; i++) {
             w = w + 1;
